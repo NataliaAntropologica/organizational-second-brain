@@ -1,0 +1,153 @@
+# Organizational Second Brain - Requirements Template
+
+> Complete this template to generate an Organizational Second Brain PRD. The goal is to preserve institutional memory, strategic reasoning, lessons learned, and future intelligence.
+
+---
+
+## 1. About the Organization
+
+* **Organization / Area Name:** ___
+* **Function:** ___
+* **Purpose of the Area:** ___
+* **Key Stakeholders:** ___
+* **Region / Timezone:** ___
+
+---
+
+## 2. Knowledge Sources
+
+What systems contain important organizational knowledge?
+
+* [ ] SharePoint
+* [ ] Confluence
+* [ ] Notion
+* [X ] Google Drive
+* [ ] Research Repository
+* [ ] Miro
+* [ ] Teams
+* [ ] Slack
+* [ ] CRM
+* [ ] Project Management Tools
+* [ ] Other: ___
+
+For each selected system specify the tool:
+
+* SharePoint: ___
+* Research Repository: ___
+* CRM: ___
+
+---
+
+## 3. Strategic Capabilities
+
+What should the Organizational Brain continuously help the area do?
+
+1. ---
+2. ---
+3. ---
+4. ---
+5. ---
+
+Examples:
+
+* Preserve institutional memory
+* Detect recurring client patterns
+* Capture lessons learned
+* Generate onboarding knowledge
+* Identify emerging opportunities
+* Monitor industry trends
+* Support strategic decision-making
+
+---
+
+## 4. Intelligence Level
+
+How proactive should the Organizational Brain be?
+
+* [ ] Repository (store information only)
+* [ ] Memory System (capture and organize knowledge)
+* [ ] Advisor (generate recommendations)
+* [ ] Strategic Partner (monitor, reason and propose actions)
+
+---
+
+## 5. Governance Boundaries
+
+The Organizational Brain must never:
+
+* [ ] Access confidential information without authorization
+* [ ] Make strategic decisions autonomously
+* [ ] Publish information externally
+* [ ] Modify official records
+* [ ] Other: ___
+
+---
+
+## 6. Memory Domains
+
+Which types of memory should the system preserve?
+
+* [ ] Project Memory
+* [ ] Research Memory
+* [ ] Decision Memory
+* [ ] Client Memory
+* [ ] Capability Memory
+* [ ] Team Memory
+* [ ] Lessons Learned
+* [ ] Innovation Memory
+* [ ] Trend Observatory
+* [ ] Future Signals
+* [ ] Other: ___
+
+---
+
+## 7. Infrastructure
+
+* Deployment:
+
+  * [ ] Local
+  * [ ] Cloud
+  * [ ] Hybrid
+
+* Existing systems:
+
+  ---
+
+---
+
+## 8. Intelligence Priorities
+
+Rank the first capabilities to implement:
+
+1. ---
+2. ---
+3. ---
+
+Examples:
+
+* Strategic Design Memory
+* Trend Observatory
+* Decision Journal
+* Client Intelligence
+* Future Scenarios
+* Onboarding Engine
+
+---
+
+## 9. Success Questions
+
+The Organizational Brain should be able to answer:
+
+1. ---
+2. ---
+3. ---
+4. ---
+5. ---
+
+Examples:
+
+* What patterns appear across projects?
+* What decisions generated the most value?
+* What should new team members learn first?
+* What signals should we monitor?
+* What capabilities will we need in 3 years?
