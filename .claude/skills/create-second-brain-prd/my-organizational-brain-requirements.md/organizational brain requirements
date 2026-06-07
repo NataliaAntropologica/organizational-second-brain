@@ -1,16 +1,16 @@
-# Organizational Second Brain - Requirements Template
+# Organizational Strategic Brain - Requirements Template
 
-> Complete this template to generate an Organizational Second Brain PRD. The goal is to preserve institutional memory, strategic reasoning, lessons learned, and future intelligence.
+> Complete this template to generate an Organizational Strategic Brain PRD. The goal is to preserve institutional memory, strategic reasoning, lessons learned, emerging opportunities, and future intelligence.
 
 ---
 
 ## 1. About the Organization
 
-* **Organization / Area Name:** ___
-* **Function:** ___
-* **Purpose of the Area:** ___
-* **Key Stakeholders:** ___
-* **Region / Timezone:** ___
+* **Organization / Area Name:** Sintetica
+* **Function:** Strategy, Foresight, Design, and AI Consulting
+* **Purpose of the Area:** Generate strategic intelligence, identify emerging opportunities, and support executive decision-making through organizational memory and prospective thinking.
+* **Key Stakeholders:** Natalia Usme
+* **Region / Timezone:** Colombia
 
 ---
 
@@ -21,7 +21,7 @@ What systems contain important organizational knowledge?
 * [ ] SharePoint
 * [ ] Confluence
 * [ ] Notion
-* [X ] Google Drive
+* [x] GitHub Markdown Repository
 * [ ] Research Repository
 * [ ] Miro
 * [ ] Teams
@@ -30,11 +30,24 @@ What systems contain important organizational knowledge?
 * [ ] Project Management Tools
 * [ ] Other: ___
 
-For each selected system specify the tool:
+### Primary Knowledge Source
 
-* SharePoint: ___
-* Research Repository: ___
-* CRM: ___
+The Organizational Strategic Brain uses a structured GitHub repository as its primary memory layer.
+
+Knowledge is captured directly into markdown files including:
+
+* Strategic decisions
+* Client intelligence
+* Research synthesis
+* Lessons learned
+* Trend observations
+* Future signals
+* Strategic hypotheses
+* Opportunities
+* Scenarios
+* Capability development
+
+External systems may be integrated later but are not required for the MVP.
 
 ---
 
@@ -42,21 +55,13 @@ For each selected system specify the tool:
 
 What should the Organizational Brain continuously help the area do?
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
-Examples:
-
-* Preserve institutional memory
-* Detect recurring client patterns
-* Capture lessons learned
-* Generate onboarding knowledge
-* Identify emerging opportunities
-* Monitor industry trends
-* Support strategic decision-making
+1. Preserve institutional memory across projects and clients
+2. Detect recurring patterns across engagements
+3. Capture strategic decisions and their rationale
+4. Monitor emerging trends, signals, and disruptions
+5. Generate future scenarios and strategic hypotheses
+6. Surface opportunities for innovation and growth
+7. Support strategic consulting and executive decision-making
 
 ---
 
@@ -65,9 +70,9 @@ Examples:
 How proactive should the Organizational Brain be?
 
 * [ ] Repository (store information only)
-* [ ] Memory System (capture and organize knowledge)
-* [ ] Advisor (generate recommendations)
-* [ ] Strategic Partner (monitor, reason and propose actions)
+* [x] Memory System (capture and organize knowledge)
+* [x] Advisor (generate recommendations)
+* [x] Strategic Partner (monitor, reason, and propose actions)
 
 ---
 
@@ -75,10 +80,10 @@ How proactive should the Organizational Brain be?
 
 The Organizational Brain must never:
 
-* [ ] Access confidential information without authorization
-* [ ] Make strategic decisions autonomously
-* [ ] Publish information externally
-* [ ] Modify official records
+* [x] Access confidential information without authorization
+* [x] Make strategic decisions autonomously
+* [x] Publish information externally
+* [x] Modify official records
 * [ ] Other: ___
 
 ---
@@ -87,31 +92,58 @@ The Organizational Brain must never:
 
 Which types of memory should the system preserve?
 
-* [ ] Project Memory
-* [ ] Research Memory
-* [ ] Decision Memory
-* [ ] Client Memory
-* [ ] Capability Memory
-* [ ] Team Memory
-* [ ] Lessons Learned
-* [ ] Innovation Memory
-* [ ] Trend Observatory
-* [ ] Future Signals
-* [ ] Other: ___
+* [x] Project Memory
+* [x] Research Memory
+* [x] Decision Memory
+* [x] Client Memory
+* [x] Capability Memory
+* [x] Team Memory
+* [x] Lessons Learned
+* [x] Innovation Memory
+* [x] Trend Observatory
+* [x] Future Signals
+* [x] Strategic Hypotheses
+* [x] Opportunity Memory
+* [x] Scenario Memory
+
+---
+
+## Memory Philosophy
+
+The purpose of the Organizational Brain is not document storage.
+
+The purpose is to preserve and synthesize organizational intelligence.
+
+Primary knowledge objects include:
+
+* Strategic decisions
+* Decision rationale
+* Lessons learned
+* Research synthesis
+* Client intelligence
+* Emerging opportunities
+* Future signals
+* Strategic hypotheses
+* Future scenarios
+
+Documents are secondary artifacts.
+
+The system should prioritize reasoning over retrieval.
 
 ---
 
 ## 7. Infrastructure
 
-* Deployment:
+### Deployment
 
-  * [ ] Local
-  * [ ] Cloud
-  * [ ] Hybrid
+* [x] Local
+* [ ] Cloud
+* [ ] Hybrid
 
-* Existing systems:
+### Existing Systems
 
-  ---
+* GitHub Repository
+* Claude Code
 
 ---
 
@@ -119,18 +151,11 @@ Which types of memory should the system preserve?
 
 Rank the first capabilities to implement:
 
-1. ---
-2. ---
-3. ---
-
-Examples:
-
-* Strategic Design Memory
-* Trend Observatory
-* Decision Journal
-* Client Intelligence
-* Future Scenarios
-* Onboarding Engine
+1. Strategic Design Memory
+2. Trend Observatory
+3. Decision Journal
+4. Client Intelligence
+5. Future Scenarios
 
 ---
 
@@ -138,16 +163,13 @@ Examples:
 
 The Organizational Brain should be able to answer:
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
-Examples:
-
-* What patterns appear across projects?
-* What decisions generated the most value?
-* What should new team members learn first?
-* What signals should we monitor?
-* What capabilities will we need in 3 years?
+1. What patterns appear across projects and clients?
+2. What decisions generated the most value and why?
+3. What should new consultants learn first?
+4. What emerging signals should we monitor?
+5. What capabilities will Sintetica need in the next three years?
+6. What opportunities are emerging across industries?
+7. Which hypotheses are gaining or losing evidence?
+8. What future scenarios should our clients prepare for?
+9. What knowledge is repeatedly created but never institutionalized?
+10. What strategic recommendations can be generated from accumulated organizational memory?
